@@ -1,1 +1,1 @@
-# Java-macbook
+Dummy template
